@@ -1,0 +1,372 @@
+.img {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 15%;
+}
+.div {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+.div:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div1 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 35%;
+    left: 15%;
+}
+.div1:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div2 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+.div2:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div3 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}
+.div3:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div4 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 80%;
+    left: 15%;
+}
+.div4:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div5 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 95%;
+    left: 15%;
+}
+.div5:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div6 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 110%;
+    left: 15%;
+}
+.div6:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div7 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 125%;
+    left: 15%;
+}
+.div7:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div8 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 140%;
+    left: 15%;
+}
+.div8:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.div9 {    
+    background-color: chocolate;
+    height: 13%;
+    width: 75%;
+    position: absolute;
+    top: 155%;
+    left: 15%;
+}
+.div9:hover {
+    border-width: 0px 0px 0px 9px;
+    border-style: solid;
+    border-color: blue;
+    transition: 0.3s;
+}
+.img1 {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    border-radius: 50%;
+}
+.p {
+    color: aqua;
+    position: absolute;
+    top: 2%;
+    left: 12%;
+}
+.p1 {
+    color: white;
+    position: absolute;
+    top: 4%;
+    left: 20%;
+    background-color: aqua;
+    border-radius: 60%;
+    width: 5%;
+    text-align: center;
+}
+.p2 {
+    color: white;
+    position: absolute;
+    top: 4%;
+    left: 27%;
+    background-color: black;
+    border-radius: 60%;
+    width: 7%;
+    text-align: center;
+}
+.p3 {
+    font-size: 120%;
+    color: black;
+    position: absolute;
+    top: 25%;
+    left: 12%;
+}
+.p4 {
+    position: absolute;
+    color: darkgray;
+    position: absolute;
+    top: 55%;
+    left: 12%;
+}
+.p5 {
+    position: absolute;
+    color: darkgray;
+    position: absolute;
+    top: 52%;
+    left: 15%;
+}
+.p6 {
+    position: absolute;
+    color: darkgray;
+    position: absolute;
+    top: 55%;
+    left: 18%;
+}
+.p7 {
+    position: absolute;
+    color: darkgray;
+    position: absolute;
+    top: 52%;
+    left: 26%;
+}
+.p8 {
+    position: absolute;
+    color: darkgray;
+    position: absolute;
+    top: 55%;
+    left: 28%;
+}
+.p9 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: 25%;
+    right: 27%;
+}
+.p14 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: -20%;
+    left: 10%;
+    display: none;
+}
+.p15 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: -20%;
+    left: 20%;
+    display: none;
+}
+.p16 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: -20%;
+    left: 30%;
+    display: none;
+}
+.p17 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: -20%;
+    left: 40%;
+    display: none;
+}
+.p18 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: -20%;
+    left: 50%;
+    display: none;
+}
+.p10 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: 25%;
+    right: 20%;
+}
+.p11 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: 25%;
+    right: 12%;
+}
+.p12 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: 25%;
+    right: 8%;
+}
+.p13 {
+    background-color: darkgray;
+    color: aqua;
+    position: absolute;
+    top: 25%;
+    right: 1%;
+}
+.div10 {
+    background-color: chocolate;
+    height: 4.5%;
+    width: 75%;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
+.img2 {
+    width: 2%;
+    height: 60%;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    display: none;
+}
+.img3 {
+    width: 2%;
+    height: 60%;
+    position: absolute;
+    top: 25%;
+    left: 23.4%;
+    display: none;
+}
+.img4 {
+    width: 2%;
+    height: 60%;
+    position: absolute;
+    top: 25%;
+    left: 33.8%;
+    display: none;
+}
+.img5 {
+    width: 2%;
+    height: 60%;
+    position: absolute;
+    top: 25%;
+    left: 41.7%;
+    display: none;
+}
+.img6 {
+    width: 2%;
+    height: 60%;
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    display: none;
+}
+.p19 {
+    color: aqua;
+    position: absolute;
+    right: 5%;
+    bottom: -30%;
+}
+.p19:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: aqua;
+}
+.p20 {
+    color: aqua;
+    position: absolute;
+    right: 15%;
+    bottom: -30%;
+}
+.p20:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: aqua;
+}
+.h1 {
+    color: black;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
